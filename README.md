@@ -23,7 +23,7 @@ https://viji-tech08.github.io/greenden-tailwind/
 - HTML5
 - Tailwind CSS
 - SVG Icons
-- 
+
 ## Purpose of This Project
 
 This project was created as part of my Full Stack Development learning journey to practice:
