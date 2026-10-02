@@ -23,15 +23,18 @@ https://viji-tech08.github.io/greenden-tailwind/
 - HTML5
 - Tailwind CSS
 - SVG Icons
+- 
+## Purpose of This Project
 
-## Project Structure
+This project was created as part of my Full Stack Development learning journey to practice:
 
-Greenden/
-│
-├── index.html
-├── images/
-│   └── ...
-└── README.md
+Tailwind CSS
+Flexbox
+Responsive Design
+Utility Classes
+Layout Design
+Navigation Bar
+Product Cards
 
 ## Thank You
 
