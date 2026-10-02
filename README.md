@@ -5,7 +5,7 @@ This project was built to practice Tailwind CSS utilities and responsive web des
 
 ## Live Demo
 
-[View Live Demo](YOUR-LIVE-DEMO-LINK)
+https://viji-tech08.github.io/greenden-tailwind/
 
 ## Features
 
